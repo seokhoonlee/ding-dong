@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "DingDong",
+  "description": "This extension alerts users when specified content is available at specified url",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon/icon32.png",
+    "default_popup": ""
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "icons": {
+    "128": "icon/icon128.png"
+  }
+}
