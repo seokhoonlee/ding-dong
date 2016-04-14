@@ -3,3 +3,16 @@ body {
 	height: 700px;
 	padding: 10px;
 }
+
+.form-group {
+	margin-bottom: 5px;
+}
+
+.btn {
+	margin-bottom: 5px;
+}
+
+.divider {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
